@@ -1,0 +1,63 @@
+    /* CSS de base */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+    }
+    
+    nav li {
+      margin-right: 20px;
+    }
+    
+    nav a {
+      color: #fff;
+      text-decoration: none;
+    }
+    
+    main {
+      padding: 20px;
+    }
+    
+    .dashboard-section {
+      background-color: #f1f1f1;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    
+    .dashboard-section h2 {
+      margin-top: 0;
+    }
+    
+    .dashboard-section ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    
+    .dashboard-section li {
+      margin-bottom: 10px;
+    }
+    
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  
